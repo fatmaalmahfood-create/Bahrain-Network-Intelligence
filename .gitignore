@@ -1,0 +1,22 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large model files
+models/model_bundle.joblib
+outputs/models/rf_models.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# HTML outputs
+*.html
+
+# Demo video
+presentations/Demo.mp4
