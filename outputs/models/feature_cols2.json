@@ -1,0 +1,23 @@
+[
+  "latitude",
+  "longitude",
+  "nearest_tower_distance_km",
+  "tower_count_1km",
+  "tower_count_2km",
+  "tower_count_5km",
+  "tower_density_ratio",
+  "digital_elevation_model",
+  "region_enc",
+  "typeOfArea_enc",
+  "city_enc",
+  "demand_growth_pct",
+  "year_trend",
+  "quarter",
+  "area_rolling_d_mbps",
+  "tests",
+  "area_median_d",
+  "area_median_u",
+  "area_median_lat",
+  "area_test_count",
+  "distance_x_density"
+]
